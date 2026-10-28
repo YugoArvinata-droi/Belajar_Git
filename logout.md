@@ -11,3 +11,7 @@ function logout(){
     agar bisa logout
     logout logout
 }
+function validasiForm() {
+ ini merupakan validasi
+ simpan ke database
+}
