@@ -6,3 +6,8 @@ bakal terjadi conflict disini
 
 
 ini amaan
+function logout(){
+    function ini untuk logout
+    agar bisa logout
+    logout logout
+}
