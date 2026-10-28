@@ -1,0 +1,1 @@
+ini merupakan fitur register
