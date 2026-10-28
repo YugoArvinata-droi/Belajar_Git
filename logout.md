@@ -4,5 +4,7 @@ ini bawah konflik
 
 bakal terjadi conflict disini
 
-
-ini amaan
+function validasiForm() {
+ ini merupakan validasi
+ simpan ke database
+}
