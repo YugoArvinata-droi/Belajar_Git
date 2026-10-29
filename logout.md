@@ -4,19 +4,18 @@ ini bawah konflik
 
 bakal terjadi conflict disini
 
-
 ini amaan
 function logout(){
-    function ini untuk logout
-    agar bisa logout
-    logout logout
+function ini untuk logout
+agar bisa logout
+logout logout
 }
 function validasiForm() {
- ini merupakan validasi
- simpan ke database
+ini merupakan validasi
+simpan ke database
 }
 
-
 function test(){
-    ini merupakan perbaikan fitur test
+ini merupakan perbaikan fitur test
+kita melakukan perbaikan lagi untuk kode function test
 }
